@@ -30,7 +30,7 @@ Currently studying Artificial Intelligence @University of Piraeus 💻
 ### 🌱 I’m learning
 
 <div display="flex">
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"/>
+  <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" alt="BunJS"/>
 </div>
 
 ### ⚡ Fun fact
