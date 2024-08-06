@@ -24,9 +24,11 @@ Currently studying Artificial Intelligence @University of Piraeus 💻
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </div>
 
-### 🔭 I’m working on
+### 🔭 MSc Dissertation
 
-- Computer vision dissertation: Image classification using CNN, Sift + SVM 
+- Computer vision dissertation: Image classification using CNN, Sift + SVM (Finished)
+
+  
 ### 🌱 I’m learning
 
 <div display="flex">
