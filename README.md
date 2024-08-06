@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Currently studying Artificial Intelligence @University of Piraeus 💻
+Finished my MSc of Artificial Intelligence @University of Piraeus 💻
 
 **I love working with**
 
